@@ -1,0 +1,7 @@
+C:\Users\Asus ExpertBook\Desktop\assignment\swapping\bin\Debug\swapping.exe.config
+C:\Users\Asus ExpertBook\Desktop\assignment\swapping\bin\Debug\swapping.exe
+C:\Users\Asus ExpertBook\Desktop\assignment\swapping\bin\Debug\swapping.pdb
+C:\Users\Asus ExpertBook\Desktop\assignment\swapping\obj\Debug\swapping.csproj.AssemblyReference.cache
+C:\Users\Asus ExpertBook\Desktop\assignment\swapping\obj\Debug\swapping.csproj.CoreCompileInputs.cache
+C:\Users\Asus ExpertBook\Desktop\assignment\swapping\obj\Debug\swapping.exe
+C:\Users\Asus ExpertBook\Desktop\assignment\swapping\obj\Debug\swapping.pdb

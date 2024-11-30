@@ -1,0 +1,7 @@
+C:\Users\Asus ExpertBook\Desktop\assignment\jagged_array\bin\Debug\jagged_array.exe.config
+C:\Users\Asus ExpertBook\Desktop\assignment\jagged_array\bin\Debug\jagged_array.exe
+C:\Users\Asus ExpertBook\Desktop\assignment\jagged_array\bin\Debug\jagged_array.pdb
+C:\Users\Asus ExpertBook\Desktop\assignment\jagged_array\obj\Debug\jagged_array.csproj.AssemblyReference.cache
+C:\Users\Asus ExpertBook\Desktop\assignment\jagged_array\obj\Debug\jagged_array.csproj.CoreCompileInputs.cache
+C:\Users\Asus ExpertBook\Desktop\assignment\jagged_array\obj\Debug\jagged_array.exe
+C:\Users\Asus ExpertBook\Desktop\assignment\jagged_array\obj\Debug\jagged_array.pdb
